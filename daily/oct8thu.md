@@ -28,7 +28,7 @@ Upload on gdrive at 14.30.
 - Find three works of your interest from the website: [dada.compart-bremen.de](http://dada.compart-bremen.de)
 - Write the title of the works you chose newxt to your name on [this]() gdrive sheet.
 - Extend your research online about the artwork and artist.
-- Add three slide to the presentation prepared before presenting the three artworks (one slide per artwork)
+- Add three slides to the presentation prepared before presenting the three artworks (one slide per artwork)
 - Include in each slide the title of the project, the artist, the year, a short explanation, a brief personal comment.
 - Upoad on gdrive.
 
